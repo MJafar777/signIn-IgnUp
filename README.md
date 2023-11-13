@@ -1,4 +1,4 @@
-## sign in sign up
+## sign-in sign-up
 
 # Getting Started with Create React App
 
